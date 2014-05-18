@@ -1,0 +1,12 @@
+
+*.pyc
+
+*.jpg
+
+log_*.log
+
+.DS_Store
+
+.spyderproject
+
+*.xlsx
