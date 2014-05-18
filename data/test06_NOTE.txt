@@ -1,6 +1,6 @@
 
 Number of observations - 944
-Numner of variables - 10
+Numner of variables - 9
 
 Variables name definitions::
 
@@ -48,7 +48,7 @@ Variables name definitions::
             22 - $75,000-89,999
             23 - $90,000-$104,999
             24 - $105,000 and over
-        vote - Expected vote
+        vote - How this person voted
             0 - Clinton
             1 - Dole
         The following 3 variables all take the values:
@@ -65,4 +65,4 @@ Variables name definitions::
             leanings from "Left" to "Right".
         DoleLR  - Respondents impression of Bob Dole's political leanings
             from "Left" to "Right".
-        logpopul - log(popul + .1)
+       
